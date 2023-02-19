@@ -1,5 +1,5 @@
-#- WAREHOUSE MANAGER PRO - 
-###Warehouse Stock Manager app in Python, the 'Capstone 4' project in the HyperionDev DfE Software Engineering Bootcamp
+# WAREHOUSE MANAGER PRO
+### Warehouse Stock Manager app in Python, the 'Capstone 4' project in the HyperionDev DfE Software Engineering Bootcamp
 
 This program can be used for inventory control, designed for a shoe manufacturer with warehouses in multiple countries. 
 You can view stock (with line values), search stock, re-stock the line with the lowest stock on hand, and discount
@@ -13,3 +13,5 @@ This is a Python script so will run in your favourite IDE
 
 ### Usage
 From the main menu, the user is asked to select an option and press Enter:
+![Main Menu - WMP](/images/finalCapstone - main menu.png)
+Format: ![The main menu of Warehouse Manager Pro]
