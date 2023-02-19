@@ -13,5 +13,6 @@ This is a Python script so will run in your favourite IDE
 
 ### Usage
 From the main menu, the user is asked to select an option and press Enter:
+
 ![finalCapstone - main menu](https://user-images.githubusercontent.com/33696436/219976919-5b5aac54-ea28-482c-a9db-b9ea7d25d9e8.PNG)
 
